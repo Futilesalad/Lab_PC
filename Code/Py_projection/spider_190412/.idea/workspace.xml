@@ -10,14 +10,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_master.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gaode/Gaode_POI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="162" column="28" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
+            <state relative-caret-position="70">
+              <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
               <folding>
                 <element signature="e#535#546#0" expanded="true" />
+                <element signature="e#2473#2660#0" />
+                <element signature="e#2701#3241#0" />
+                <element signature="e#4072#4418#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -35,7 +56,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>已处理第1层级</find>
+      <find>pages</find>
+      <find>所在层级1</find>
+      <find>处理第1层级</find>
+      <find>正在处理第1层级</find>
     </findStrings>
+    <replaceStrings>
+      <replace>page</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,21 +71,46 @@
         <option value="$PROJECT_DIR$/coord_translater.py" />
         <option value="$PROJECT_DIR$/get_Boundary_BD.html" />
         <option value="$PROJECT_DIR$/Gaode/testy.py" />
+        <option value="$PROJECT_DIR$/learning_relative/高阶函数.py" />
+        <option value="$PROJECT_DIR$/learning_relative/sorted排序算法.py" />
+        <option value="$PROJECT_DIR$/learning_relative/decorator装饰器.py" />
+        <option value="$PROJECT_DIR$/learning_relative/partial 偏函数.py" />
+        <option value="$PROJECT_DIR$/learning_relative/class  类.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/限制实例属性__slot__.py" />
+        <option value="$PROJECT_DIR$/Gaode/output/Gaode_POI_WH.csv" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/枚举类.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/调试.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/mydict.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/单元测试.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/单元测试练习.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/Dict2.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/操作文件和目录.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/序列化.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/子进程.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多线程.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多进程.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/TreadLocal.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_worker.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/分布式进程.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_master.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/正则/正则表达式.py" />
+        <option value="$PROJECT_DIR$/learning_relative/python_LXF/数据库连接/MySQL_test.py" />
         <option value="$PROJECT_DIR$/Gaode/Gaode_POI.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="331" />
-    <option name="y" value="72" />
-    <option name="width" value="1548" />
-    <option name="height" value="957" />
+    <option name="x" value="110" />
+    <option name="y" value="9" />
+    <option name="width" value="1292" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,19 +129,31 @@
               <item name="Gaode" type="462c0819:PsiDirectoryNode" />
               <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spider_190412" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_190412" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_relative" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_190412" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_190412" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_relative" type="462c0819:PsiDirectoryNode" />
+              <item name="python_LXF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -98,6 +163,14 @@
         <option name="myModuleName" value="spider_190412" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\Py_projection\spider_190412\Gaode\output" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Py_projection\spider_190412\learning_relative\python_LXF" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,6 +185,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Gaode_POI">
+    <configuration name="正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/正则" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/正则/正则表达式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Gaode_POI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_190412" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MySQL_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_190412" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +237,122 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gaode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/数据库连接" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gaode/testy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/数据库连接/MySQL_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多进程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="子进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/子进程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多线程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_master" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_worker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_190412" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_worker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +364,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Gaode_POI" />
-        <item itemvalue="Python.testy" />
+        <item itemvalue="Python.MySQL_test" />
+        <item itemvalue="Python.正则表达式" />
+        <item itemvalue="Python.task_worker" />
+        <item itemvalue="Python.task_master" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +385,43 @@
       <workItem from="1555117697957" duration="27445000" />
       <workItem from="1555226565296" duration="3730000" />
       <workItem from="1555558324215" duration="1196000" />
+      <workItem from="1556066848407" duration="5871000" />
+      <workItem from="1556238730029" duration="4586000" />
+      <workItem from="1556332281156" duration="2043000" />
+      <workItem from="1556858615698" duration="43568000" />
+      <workItem from="1557017830702" duration="6679000" />
+      <workItem from="1557062976306" duration="2089000" />
+      <workItem from="1557102984309" duration="12833000" />
+      <workItem from="1557190027041" duration="18179000" />
+      <workItem from="1557361905690" duration="3273000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_单元测试_py - 2019.05.06 at 08h 55m 29s.xml">
+      <configuration name="Unittests in 单元测试.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_单元测试_py - 2019.05.06 at 08h 56m 33s.xml">
+      <configuration name="Unittests in 单元测试.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_单元测试_TestDict - 2019.05.06 at 08h 59m 28s.xml">
+      <configuration name="Unittests for 单元测试.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_单元测试_TestDict - 2019.05.06 at 09h 01m 27s.xml">
+      <configuration name="Unittests for 单元测试.TestDict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_单元测试练习_py - 2019.05.06 at 09h 05m 49s.xml">
+      <configuration name="Unittests in 单元测试练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_单元测试练习_py - 2019.05.06 at 09h 07m 54s.xml">
+      <configuration name="Unittests in 单元测试练习.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Dict - 2019.05.06 at 09h 14m 43s.xml">
+      <configuration name="Doctests in Dict" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36678000" />
+    <option name="totallyTimeSpent" value="135799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,15 +433,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="72" width="1548" height="957" extended-state="1" />
+    <frame x="110" y="9" width="1292" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17741935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17451298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932796" weight="0.42666668" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33174792" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932796" visible="true" weight="0.3174792" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
@@ -233,23 +474,29 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/spider_190412$Gaode_POI.coverage" NAME="Gaode_POI Coverage Results" MODIFIED="1555229385069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gaode" />
+    <SUITE FILE_PATH="coverage/spider_190412$Unittests_for__TestDict.coverage" NAME="Unittests for 单元测试.TestDict Coverage Results" MODIFIED="1557104486906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF" />
+    <SUITE FILE_PATH="coverage/spider_190412$Gaode_POI.coverage" NAME="Gaode_POI Coverage Results" MODIFIED="1557373740519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gaode" />
     <SUITE FILE_PATH="coverage/spider_190412$testy.coverage" NAME="testy Coverage Results" MODIFIED="1555146803904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gaode" />
+    <SUITE FILE_PATH="coverage/spider_190412$__slot__.coverage" NAME="限制实例属性__slot__ Coverage Results" MODIFIED="1556332501076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF" />
+    <SUITE FILE_PATH="coverage/spider_190412$class__.coverage" NAME="class  类 Coverage Results" MODIFIED="1556242883535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative" />
+    <SUITE FILE_PATH="coverage/spider_190412$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1557192814650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+    <SUITE FILE_PATH="coverage/spider_190412$MySQL_test.coverage" NAME="MySQL_test Coverage Results" MODIFIED="1557230311073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF/数据库连接" />
+    <SUITE FILE_PATH="coverage/spider_190412$partial_.coverage" NAME="partial 偏函数 Coverage Results" MODIFIED="1556241168779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative" />
+    <SUITE FILE_PATH="coverage/spider_190412$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1557192847729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+    <SUITE FILE_PATH="coverage/spider_190412$sorted.coverage" NAME="sorted排序算法 Coverage Results" MODIFIED="1556072108644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative" />
+    <SUITE FILE_PATH="coverage/spider_190412$decorator.coverage" NAME="decorator装饰器 Coverage Results" MODIFIED="1556240431288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative" />
+    <SUITE FILE_PATH="coverage/spider_190412$Unittests_in__py.coverage" NAME="Unittests in 单元测试练习.py Coverage Results" MODIFIED="1557104874519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF" />
+    <SUITE FILE_PATH="coverage/spider_190412$TreadLocal.coverage" NAME="TreadLocal Coverage Results" MODIFIED="1557125534117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF/进程和线程" />
+    <SUITE FILE_PATH="coverage/spider_190412$.coverage" NAME="正则表达式 Coverage Results" MODIFIED="1557195563919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF/正则" />
+    <SUITE FILE_PATH="coverage/spider_190412$Doctests_in_Dict.coverage" NAME="Doctests in Dict Coverage Results" MODIFIED="1557105282966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_relative/python_LXF" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_CS.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-133143" />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-133245" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_Boundary_BD.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-133143" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coord_translater.py">
@@ -298,12 +545,240 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/sorted排序算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/decorator装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+          <folding>
+            <element signature="e#535#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/partial 偏函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/class  类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/限制实例属性__slot__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_WH3_backup.csv" />
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_WH3.csv" />
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_WH2.csv" />
+    <entry file="file://D:/software_install/annconda/Lib/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1669" selection-start-line="1669" selection-end-line="1669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_WH.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_WH_mongo.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_Boundary_BD.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/test_rename.txt" />
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/test.txt" />
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/test/test" />
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/Dict2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/mydict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#535#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/子进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#535#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/单元测试练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/单元测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="19" />
+          <folding>
+            <element signature="e#535#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/高阶函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="99" column="16" lean-forward="true" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/操作文件和目录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1194">
+          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/调试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/多线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="71" column="44" lean-forward="true" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+          <folding>
+            <element signature="e#535#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/枚举类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/正则/正则表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaode/output/Gaode_POI_GZ.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="8033" column="8" selection-start-line="8033" selection-start-column="8" selection-end-line="8033" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/数据库连接/MySQL_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software_install/annconda/Lib/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1707">
+          <caret line="814" column="37" selection-start-line="814" selection-start-column="37" selection-end-line="814" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#535#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/TreadLocal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_relative/python_LXF/进程和线程/task_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gaode/Gaode_POI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="162" column="28" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
+        <state relative-caret-position="70">
+          <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
           <folding>
             <element signature="e#535#546#0" expanded="true" />
+            <element signature="e#2473#2660#0" />
+            <element signature="e#2701#3241#0" />
+            <element signature="e#4072#4418#0" />
           </folding>
         </state>
       </provider>
